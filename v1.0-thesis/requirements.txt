@@ -1,0 +1,9 @@
+# Runtime dependencies for the nanogrid interconnection model.
+# Tested on Python 3.10 and newer. Install with:
+#     pip install -r requirements.txt
+# If you use the Anaconda "thesis" environment instead, these three packages
+# ship with a standard Anaconda install, so no extra step is needed.
+
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
