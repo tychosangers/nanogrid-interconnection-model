@@ -125,12 +125,6 @@ are published with the consent of the site owner. Please cite this repository
 and the accompanying thesis when using them.
 
 The irradiance and wind data in `data/solar/` were obtained from Solcast.
-[Keep one of the two sentences below, depending on Solcast's terms of use.]
-*They are included here in accordance with Solcast's terms of use.*
-*They are not redistributed here, in line with Solcast's terms of use; to run the
-model, obtain equivalent data from Solcast or another source (for example PVGIS
-or ERA5), place it in `data/solar/` in the column format described in
-`pv_profile.py`, and point `SOLAR_FILE` in `configuration.py` at it.*
 
 ## Citation
 
