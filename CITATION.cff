@@ -1,15 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Interconnected Off-Grid Nanogrids: A Techno-Economic Model"
+title: "Nanogrid Interconnection Model"
 authors:
-  - family-names: "[YOUR SURNAME]"
-    given-names: "[YOUR GIVEN NAME]"
+  - family-names: "Sangers"
+    given-names: "Tycho"
     affiliation: "Utrecht University"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
-version: "1.0.0"
-date-released: "2026-00-00"
+version: "1.1"
+date-released: "2026-10-15"
 license: MIT
-# repository-code: "https://github.com/[USER]/[REPO]"
+repository-code: "https://github.com/tychosangers/nanogrid-interconnection-model"
 keywords:
   - nanogrid
   - microgrid interconnection
